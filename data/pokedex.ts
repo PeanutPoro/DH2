@@ -6195,6 +6195,19 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		evoLevel: 45,
 		eggGroups: ["Bug", "Dragon"],
 	},
+    flygonmega: {
+		num: 330,
+		name: "Flygon-Mega",
+        baseSpecies: "Flygon",
+		types: ["Ground", "Dragon"],
+		baseStats: { hp: 80, atk: 130, def: 100, spa: 80, spd: 100, spe: 130 },
+		abilities: { 0: "Sand Force" },
+		heightm: 2,
+		weightkg: 82,
+		color: "Green",
+		eggGroups: ["Bug", "Dragon"],
+        requiredItem: "Flygontite"
+	},
 	cacnea: {
 		num: 331,
 		name: "Cacnea",

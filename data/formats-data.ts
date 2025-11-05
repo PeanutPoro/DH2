@@ -2142,6 +2142,11 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		doublesTier: "(DUU)",
 		natDexTier: "RU",
 	},
+	flygonmega: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+		natDexTier: "UU",    
+	},
 	cacnea: {
 		tier: "LC",
 	},
